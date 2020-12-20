@@ -1,7 +1,4 @@
-### Hi there, I'm Nazir - Hussain [thenazrhussain][website] 👋
-
-<!--
-**nazir-hussain/nazir-hussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Nazir - Hussain https://thenazirhussain.blogspot.com/ 👋
 
 ## I'm a Student, Developer, and Learner!!
 
