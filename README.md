@@ -1,7 +1,6 @@
-@@ -1,29 +1,36 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img  src="https://github.com/nazir-hussain/nazir-hussain/blob/main/javascript.gif" />
 
-### Hi there, I'm Nazir - Hussain [nazir-hussain] [website] 👋
+### Hi there, I'm Nazir  Hussain [nazir-hussain] [website] 👋
 
 
 [![Website](https://img.shields.io/website?label=thenazirhussain.blogspot.com&style=for-the-badge&url=https%3A%2F%2FNazir__Hussain.com)](https://thenazirhussain.blogspot.com)
