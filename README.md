@@ -104,9 +104,9 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 [youtube]: https://www.youtube.com/channel/UCldf-QxYRNl38xKAoVX1jvQ?view_as=subscriber
 [instagram]: https://www.instagram.com/nazir__hassan
 [linkedin]: https://linkedin.com/in/thenazirhussain
-
 <br />
 ---
+
 ## My Stats 📈📊
 <img src="https://komarev.com/ghpvc/?username=nazir-hussain" alt="nazir-hussain" />
 <a href="https://github.com/nazir-hussain/github-readme-stats">
