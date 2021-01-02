@@ -104,3 +104,17 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 [youtube]: https://www.youtube.com/channel/UCldf-QxYRNl38xKAoVX1jvQ?view_as=subscriber
 [instagram]: https://www.instagram.com/nazir__hassan
 [linkedin]: https://linkedin.com/in/thenazirhussain
+
+<br />
+---
+## My Stats 📈📊
+<img src="https://komarev.com/ghpvc/?username=nazir-hussain" alt="nazir-hussain" />
+<a href="https://github.com/nazir-hussain/github-readme-stats">
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=nazir-hussain&repo=github-readme-stats&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/nazir-hussain/convoychat">
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazir-hussain&layout=compact" />
+</a>
+<h2 align="center">Give some ❤ Give some ⭐</h2>
