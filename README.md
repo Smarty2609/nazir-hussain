@@ -80,6 +80,20 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 SEARCHTECH is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
+<br />
+---
+
+## My Stats 📈📊
+<img src="https://komarev.com/ghpvc/?username=nazir-hussain" alt="nazir-hussain" />
+<a href="https://github.com/nazir-hussain/github-readme-stats">
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=nazir-hussain&repo=github-readme-stats&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/nazir-hussain/convoychat">
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazir-hussain&layout=compact" />
+</a>
+
 #### Coding Stats
 
 <!--START_SECTION:waka-->
@@ -104,17 +118,5 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 [youtube]: https://www.youtube.com/channel/UCldf-QxYRNl38xKAoVX1jvQ?view_as=subscriber
 [instagram]: https://www.instagram.com/nazir__hassan
 [linkedin]: https://linkedin.com/in/thenazirhussain
-<br />
----
 
-## My Stats 📈📊
-<img src="https://komarev.com/ghpvc/?username=nazir-hussain" alt="nazir-hussain" />
-<a href="https://github.com/nazir-hussain/github-readme-stats">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=nazir-hussain&repo=github-readme-stats&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/nazir-hussain/convoychat">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazir-hussain&layout=compact" />
-</a>
 <h2 align="center">Give some ❤ Give some ⭐</h2>
