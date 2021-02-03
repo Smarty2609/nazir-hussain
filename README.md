@@ -98,7 +98,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 </details>
 
-[website]: https://thenazirhussain.blogspot.com
+[website]: https://chillthemind.blogspot.com
 [course]: https://thenazirhussain.blogspot.com
 [twitter]: https://twitter.com/Nazir__Hussain
 [youtube]: https://www.youtube.com/channel/UCldf-QxYRNl38xKAoVX1jvQ?view_as=subscriber
