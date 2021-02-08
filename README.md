@@ -3,7 +3,7 @@
 ### Hi there, I'm Nazir  Hussain [nazir-hussain] [website] 👋
 
 
-[![Website](https://img.shields.io/website?label=thenazirhussain.blogspot.com&style=for-the-badge&url=https%3A%2F%2FNazir__Hussain.com)](https://thenazirhussain.blogspot.com)
+[![Website](https://img.shields.io/website?label=thenazirhussain.blogspot.com&style=for-the-badge&url=https%3A%2F%2FNazir__Hussain.com)](https://chillthemind.blogspot.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Nazir__Hussain?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNazir__Hussain&screen_name=Nazir__Hussain)
 
 ## I'm a Student, Developer, and Learner!!
@@ -18,7 +18,7 @@
 ### Connect with me:
 
 [<img align="left" alt="thenazirhussain.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="SEARCHTECH | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Relax the Mind | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Nazir__Hussain | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="thenazirhussain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nazir__hussain | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
