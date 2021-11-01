@@ -74,11 +74,11 @@
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why SEARCHTECH Youtube Channel exists!
+I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why Hack and Code Youtube Channel exists!
 
-#### What is SEARCHTECH?
+#### What is Hack and Code?
 
-SEARCHTECH is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+Hack and Code is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
 #### Coding Stats
 
@@ -101,7 +101,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 [website]: https://chillthemind.blogspot.com
 [course]: https://thenazirhussain.blogspot.com
 [twitter]: https://twitter.com/Nazir__Hussain
-[youtube]: https://www.youtube.com/channel/UCldf-QxYRNl38xKAoVX1jvQ?view_as=subscriber
+[youtube]: https://www.youtube.com/channel/UCI7KMCcJT0OwWTClE9NDT3Q
 [instagram]: https://www.instagram.com/nazir__hassan
 [linkedin]: https://linkedin.com/in/thenazirhussain
 
