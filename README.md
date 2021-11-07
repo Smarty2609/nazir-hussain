@@ -1,6 +1,7 @@
 <img  src="https://github.com/nazir-hussain/nazir-hussain/blob/main/javascript.gif" />
 
-### Hi there, I'm Nazir  Hussain [nazir-hussain] [website] 👋
+## Hi there, 👋🏻 I am [Nazir  Hussain](https://sejalvasan.netlify.app/) <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+
 
 
 [![Website](https://img.shields.io/website?label=https://chillthemind.blogspot.com&style=for-the-badge&url=https%3A%2F%2FNazir__Hussain.com)](https://chillthemind.blogspot.com)
@@ -15,7 +16,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play football
 
-### Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+### Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
 [<img align="left" alt="chillthemind.blogspot | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
