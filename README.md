@@ -1,6 +1,6 @@
 <img  src="https://github.com/nazir-hussain/nazir-hussain/blob/main/javascript.gif" />
 
-## Hi there, 👋🏻 I am [Nazir  Hussain](#/) <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+## Hi there, <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"> I am [Nazir  Hussain](#/) <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
 
 
@@ -84,8 +84,8 @@ Hack and Code is a youtube channel for learning Web/Mobile development, coding a
  
 ## 🏆 *Github Status*
 
-<img  src="https://github-readme-stats.vercel.app/api?username=nazir-hussain-1&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=nazir-hussain-1&theme=dark" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=nazir-hussain&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=nazir-hussain&theme=dark" width="48%" >
 <br>
  
 <details>
