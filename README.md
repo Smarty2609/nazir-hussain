@@ -96,7 +96,7 @@ Hack and Code is a youtube channel for learning Web/Mobile development, coding a
 
 
   <br>
-<img alt=" nazir-hussain Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nazir-hussain_color=0D1117&color=ccffcc&line=ffffff&point=FFFFFF&hide_border=true" />
+<img alt=" NAZIR HUSSAIN Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nazir-hussain&bg_color=0D1117&color=ccffcc&line=ffffff&point=FFFFFF&hide_border=true" />
 </p>
 <!--END_SECTION:waka-->
 
