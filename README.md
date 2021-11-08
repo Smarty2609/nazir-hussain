@@ -74,30 +74,26 @@
 <br />
 <br />
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
-
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why Hack and Code Youtube Channel exists!
 
 #### What is Hack and Code?
 
 Hack and Code is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
- <hr>
+
  
- <p align="center">
-        <img alt="NAZIR HUSSAIN streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nazir-hussain&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</p>
-   
+## 🏆 *Github Status*
 
-#### My Stats 📈📊
+<img  src="https://github-readme-stats.vercel.app/api?username=nazir-hussain-1&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=nazir-hussain-1&theme=dark" width="48%" >
+<br>
+ 
+<details>
+<summary>
+  More stuff about me
+</summary>
 
-![nazir-hussain's github stats](https://github-readme-stats.vercel.app/api?username=nazir-hussain&count_private=true&theme=tokyonight&hide=contribs,prs)
-
+<br >
 </details>
 
 [website]: https://chillthemind.blogspot.com
@@ -111,7 +107,6 @@ Hack and Code is a youtube channel for learning Web/Mobile development, coding a
 #### Coding Stats📈📊
 <br>
 <p align="center" >
-
   <br>
 <img alt=" NAZIR HUSSAIN Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nazir-hussain&bg_color=0D1117&color=ccffcc&line=ffffff&point=FFFFFF&hide_border=true" />
 </p>
