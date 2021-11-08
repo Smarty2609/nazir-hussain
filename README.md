@@ -87,18 +87,13 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 Hack and Code is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-<br>
-
-<p align="center" >
-
-
-  <br>
-<img alt=" NAZIR HUSSAIN Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nazir-hussain&bg_color=0D1117&color=ccffcc&line=ffffff&point=FFFFFF&hide_border=true" />
+ 
+ <p align="center">
+        <img alt="NAZIR HUSSAIN streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nazir-hussain&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
-<!--END_SECTION:waka-->
+   
+ 
+ 
 
 #### My Stats 📈📊
 
@@ -113,4 +108,19 @@ Hack and Code is a youtube channel for learning Web/Mobile development, coding a
 [instagram]: https://www.instagram.com/nazir__hassan
 [linkedin]: https://linkedin.com/in/thenazirhussain
 
+ 
+#### Coding Stats📈📊
+
+<!--START_SECTION:waka-->
+<br>
+
+<p align="center" >
+
+
+  <br>
+<img alt=" NAZIR HUSSAIN Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nazir-hussain&bg_color=0D1117&color=ccffcc&line=ffffff&point=FFFFFF&hide_border=true" />
+</p>
+<!--END_SECTION:waka--> 
+ 
+ 
 <h2 align="center">Give some ❤ Give some ⭐</h2>
