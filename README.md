@@ -4,9 +4,9 @@
 
 
 
-[![Website](https://img.shields.io/website?label=https://chillthemind.blogspot.com&style=for-the-badge&url=https%3A%2F%2FNazir__Hussain.com)](https://chillthemind.blogspot.com)
+<!-- [![Website](https://img.shields.io/website?label=https://chillthemind.blogspot.com&style=for-the-badge&url=https%3A%2F%2FNazir__Hussain.com)](https://chillthemind.blogspot.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Nazir__Hussain?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNazir__Hussain&screen_name=Nazir__Hussain)
-
+ -->
 ### About me  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30px">
 <ul>
  <li>I did my gradution in Bachelor of Technology from Maharaja Ranjit Singh Punjab Technical University.</li>
@@ -74,20 +74,6 @@
 <br />
 <br />
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why Hack and Code Youtube Channel exists!
-
-#### What is Hack and Code?
-
-Hack and Code is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
-
-
- 
-## 🏆 *Github Status*
-
-<img  src="https://github-readme-stats.vercel.app/api?username=nazir-hussain&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=nazir-hussain&theme=dark" width="48%" >
-<br>
- 
 <details>
 <summary>
   More stuff about me
@@ -102,7 +88,20 @@ Hack and Code is a youtube channel for learning Web/Mobile development, coding a
 [youtube]: https://www.youtube.com/channel/UCI7KMCcJT0OwWTClE9NDT3Q
 [instagram]: https://www.instagram.com/nazir__hassan
 [linkedin]: https://linkedin.com/in/thenazirhussain
+ 
+ 
+I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why Hack and Code Youtube Channel exists!
 
+#### What is Hack and Code?
+
+Hack and Code is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+ 
+## 🏆 *Github Status*
+
+<img  src="https://github-readme-stats.vercel.app/api?username=nazir-hussain&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=nazir-hussain&theme=dark" width="48%" >
+<br>
+ 
  <!--START_SECTION:waka-->
 #### Coding Stats📈📊
 <br>
