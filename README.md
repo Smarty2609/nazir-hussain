@@ -1,6 +1,6 @@
 <img  src="https://github.com/nazir-hussain/nazir-hussain/blob/main/javascript.gif" />
 
-## Hi there, 👋🏻 I am [Nazir  Hussain](https://sejalvasan.netlify.app/) <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+## Hi there, 👋🏻 I am [Nazir  Hussain](#/) <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
 
 
@@ -87,13 +87,12 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 Hack and Code is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
+ <hr>
  
  <p align="center">
         <img alt="NAZIR HUSSAIN streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nazir-hussain&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
    
- 
- 
 
 #### My Stats 📈📊
 
@@ -108,14 +107,10 @@ Hack and Code is a youtube channel for learning Web/Mobile development, coding a
 [instagram]: https://www.instagram.com/nazir__hassan
 [linkedin]: https://linkedin.com/in/thenazirhussain
 
- 
+ <!--START_SECTION:waka-->
 #### Coding Stats📈📊
-
-<!--START_SECTION:waka-->
 <br>
-
 <p align="center" >
-
 
   <br>
 <img alt=" NAZIR HUSSAIN Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nazir-hussain&bg_color=0D1117&color=ccffcc&line=ffffff&point=FFFFFF&hide_border=true" />
