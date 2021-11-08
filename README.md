@@ -7,6 +7,13 @@
 [![Website](https://img.shields.io/website?label=https://chillthemind.blogspot.com&style=for-the-badge&url=https%3A%2F%2FNazir__Hussain.com)](https://chillthemind.blogspot.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Nazir__Hussain?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNazir__Hussain&screen_name=Nazir__Hussain)
 
+### About me  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30px">
+<ul>
+ <li>I did my gradution in Bachelor of Technology from Maharaja Ranjit Singh Punjab Technical University.</li>
+<li>I am passionate about Frontend Development and Technical Blogging and making Open Source contributions.</li>
+<li>Being a technophile I have always been eager to bring value to the tech community through hard work and commitment to quality. I love to learn new things and implement my  learnings practically.</li>
+  </ul>
+
 ## I'm a Student, Developer, and Learner!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
@@ -83,13 +90,14 @@ Hack and Code is a youtube channel for learning Web/Mobile development, coding a
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-```text
-TypeScript   12 hrs 33 mins  ████████████████████▓░░░░   73.23 % 
-HTML         1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
+<br>
+
+<p align="center" >
+
+
+  <br>
+<img alt=" NAZIR HUSSAIN Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nazir-hussain_color=0D1117&color=ccffcc&line=ffffff&point=FFFFFF&hide_border=true" />
+</p>
 <!--END_SECTION:waka-->
 
 #### My Stats 📈📊
