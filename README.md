@@ -79,6 +79,11 @@
   More stuff about me
 </summary>
 
+ I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why Hack and Code Youtube Channel exists!
+
+#### What is Hack and Code?
+
+Hack and Code is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 <br >
 </details>
 
@@ -88,13 +93,6 @@
 [youtube]: https://www.youtube.com/channel/UCI7KMCcJT0OwWTClE9NDT3Q
 [instagram]: https://www.instagram.com/nazir__hassan
 [linkedin]: https://linkedin.com/in/thenazirhussain
- 
- 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why Hack and Code Youtube Channel exists!
-
-#### What is Hack and Code?
-
-Hack and Code is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
  
 ## 🏆 *Github Status*
 
