@@ -108,7 +108,7 @@ Hack and Code is a youtube channel for learning Web/Mobile development, coding a
 </p>
 <!--END_SECTION:waka--> 
 
-### Crack A Joke (Quite Literally)<img src="https://media2.giphy.com/media/l11LqGYmIt2iPumHTg/source.gif" height="40px">
+### Crack A Joke (Quite Literally)<img src="https://media1.tenor.com/images/d787d33adb362e8a7cfe38aa37194c20/tenor.gif?itemid=9682311" height="40px">
 
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
